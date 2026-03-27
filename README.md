@@ -123,8 +123,5 @@ Please use this bibtex if you want to cite this repository (master branch) in yo
 }
 ```
 
-## Getting involved
+## Contact me: murayamagenji394@gmail.com
 
-* [GitHub Issues](https://github.com/werner-duvaud/muzero-general/issues): For reporting bugs.
-* [Pull Requests](https://github.com/werner-duvaud/muzero-general/pulls): For submitting code contributions.
-* [Discord server](https://discord.gg/GB2vwsF): For discussions about development or any general questions.
